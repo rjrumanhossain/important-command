@@ -9,4 +9,6 @@ php artisan make:migration add_marchantaccepted_to_youradd_table --table=add_tab
 #flutter command
 
 1. flutter dependency get comand : flutter doctor , flutter pub get
+
 2. 
+3. flutter app package name change Dependancies :  flutter pub add change_app_package_name : com.flutter.comd
